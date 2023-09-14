@@ -1,0 +1,1 @@
+import{_ as e,o,c as s}from"./index.584af336.js";const c={mounted(){console.log("qwe mounted \u5F02\u6B65\u7EC4\u4EF6\u52A0\u8F7D")}};const n={class:"my-async-comp"};function t(u,_,a,p,r,m){return o(),s("div",n,"\u6211\u662F\u5F02\u6B65\u7EC4\u4EF6")}const l=e(c,[["render",t]]);export{l as default};
