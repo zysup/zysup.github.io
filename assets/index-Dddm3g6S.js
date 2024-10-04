@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./index-CDm6I6EW.js";const c={},n={class:"page-vant-feature"};function o(r,s){return t(),a("div",n,"page-vant-feature")}const f=e(c,[["render",o]]);export{f as default};
